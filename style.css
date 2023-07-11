@@ -1,0 +1,9 @@
+body{
+    text-align: center;
+    background: linear-gradient(blue, black) !important;
+    font-family: 'Montserrat', sans-serif !important;
+    color: white !important;
+}
+img{
+    max-width:199px; ;
+}
